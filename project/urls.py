@@ -1,3 +1,5 @@
+# type: ignore
+
 """
 URL configuration for project project.
 
